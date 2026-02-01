@@ -1,0 +1,34 @@
+{
+  "name": "fatihai-email-verify",
+  "version": "1.0.0",
+  "description": "Fast and accurate email verification API client. Validate emails in real-time with 99.9% accuracy.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "email",
+    "verification",
+    "validation",
+    "api",
+    "fatihai",
+    "email-validator",
+    "disposable-email",
+    "mx-check",
+    "real-time"
+  ],
+  "author": "FatihAI <support@fatihai.app>",
+  "license": "MIT",
+  "homepage": "https://fatihai.app/tools/email-verify",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fatihdagustu20-hub/email-verify-sdk"
+  },
+  "bugs": {
+    "url": "https://github.com/fatihdagustu20-hub/email-verify-sdk/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
