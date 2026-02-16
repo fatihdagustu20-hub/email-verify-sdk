@@ -94,4 +94,4 @@ curl -X POST https://fatihai.app/api/v1/email/verify \
 
 ---
 
-Made with ❤️ by [FatihAI](https://fatihai.app) | Updated: 2026-02-11
+Made with ❤️ by [FatihAI](https://fatihai.app) | Updated: 2026-02-16
